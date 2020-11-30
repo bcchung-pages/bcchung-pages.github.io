@@ -31,6 +31,18 @@ I'm currently working at Electronics and Telecommunications Research Institute (
 
 ---
 
+
+## Awards
+
+- ETRI New Employee Award (신입직원상), 2019
+
+- Top 10 finalists in Qualcomm Fellowship Awards, 2011
+
+- Graduate summa cum laude from KAIST, 2011
+
+---
+
+
 ## Programming Skills
 
 Proficient with: **Python, C, Tensorflow, Scikit-Learn, Matlab.**
