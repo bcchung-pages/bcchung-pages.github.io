@@ -9,7 +9,6 @@ author_profile: true
 ## Internation Patents
 
 ---
-
 - [**Highly related to 3GPP standards**] US 10033451 B2, 미국등록, Method of allocating resources in pattern/polarization beam division multiple access-based transmitting apparatus, method of transmitting channel information by receiving apparatus and receiving apparatus based on pattern/polarization beam division multiple access
 
 - US 9155090 B2, 미국등록, Apparatus and method for transmitting and receiving reference signal in wireless communication system
@@ -42,7 +41,6 @@ author_profile: true
 ## Domestic Patents
 
 ---
-
 - 10-1745700 B1, 국내등록, 무선통신 시스템에서 기준 신호 송수신을 위한 장치 및 방법
 
 - 10-1957783 B1, 국내등록, 무선 통신 시스템에서 핸드오버를 위한 장치 및 방법
