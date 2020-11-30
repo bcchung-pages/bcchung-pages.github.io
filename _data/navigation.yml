@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Biography"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /_pages/2020-11-30-biography.md
   - title: "Researches"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Publications"
