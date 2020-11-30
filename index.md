@@ -1,4 +1,5 @@
 ---
+title; 'Biography'
 layout: single
 author_profile: true
 ---
