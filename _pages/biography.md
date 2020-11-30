@@ -5,7 +5,14 @@ permalink: /biography/
 author_profile: true
 ---
 
-!({{'/assets/bcchung.jpg'}})
+{% capture fig_img %}
+![Foo]({{ '/assets/bcchung.jpg' | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>identification photo</figcaption>
+</figure>
 
 ## About me
 
