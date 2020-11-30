@@ -13,9 +13,9 @@ I'm currently working at Electronics and Telecommunications Research Institute (
 
 ## Education
 
-- Doctor of Philosophy from KAIST (2013.03-2017.02)
+- Doctor of Philosophy from KAIST (2013.03-2017.02, Adviser: Dong-Ho Cho)
 
-- Master of Engineering from KAIST (2011.02-2013.02)
+- Master of Engineering from KAIST (2011.02-2013.02, Adviser: Dong-Ho Cho)
   
 - Bachelor of Engineering from KAIST (2007.02-2011.02, *graduate summa cum laude*)
 
