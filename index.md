@@ -20,7 +20,7 @@ I'm currently working at Electronics and Telecommunications Research Institute (
   I graudated from Korea Advanced Institute of Science and Technology (KAIST) with a Master of Engineering (M.E.) in Februray 2013, majoring in Electrical Engineering. The advisor was Dong-Ho Cho.
   
 - **Bachelor of Engineering** - KAIST (South Korea):
-  I graudated from Korea Advanced Institute of Science and Technology (KAIST) with a Bachelor of Engineering (B.E.) in Februray 2011, majoring in Electrical Engineering.
+  I graudated *summa cum laude* from Korea Advanced Institute of Science and Technology (KAIST) with a Bachelor of Engineering (B.E.) in Februray 2011, majoring in Electrical Engineering.
 
 ---
 
