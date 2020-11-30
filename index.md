@@ -33,3 +33,5 @@ Familiar with: **C++, Java, SQL.**
 ## Contact me
 
 For any inquires, you can reach me via email: **_[bc.sake@gmail.com](mailto:bc.sake@gmail.com)_**
+
+---
