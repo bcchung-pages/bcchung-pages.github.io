@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<center><img src="/assets/bcchung.jpg" width="236" height="315"></center>
+<center><img src="/assets/bcchung.jpg"></center>
 
 
 ## About me
