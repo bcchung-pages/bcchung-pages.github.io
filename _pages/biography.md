@@ -6,13 +6,10 @@ author_profile: true
 ---
 
 {% capture fig_img %}
-![]({{ '/assets/bcchung.jpg' | relative_url }})
+![]({{ '/assets/bcchung.jpg' =300x #centering| relative_url }})
 {% endcapture %}
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>identification photo</figcaption>
-</figure>
+
 
 ## About me
 
