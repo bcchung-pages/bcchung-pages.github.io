@@ -5,7 +5,7 @@ permalink: /biography/
 author_profile: true
 ---
 
-!(/assets/bcchung.jpg)
+!({{'/assets/bcchung.jpg'}})
 
 ## About me
 
