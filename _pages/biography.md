@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% capture fig_img %}
-![Foo]({{ '/assets/bcchung.jpg' | relative_url }})
+![]({{ '/assets/bcchung.jpg' | relative_url }})
 {% endcapture %}
 
 <figure>
