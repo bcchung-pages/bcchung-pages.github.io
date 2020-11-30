@@ -6,7 +6,7 @@ author_profile: true
 
 ## Affiliation
 
-I'm currently working at Electronics and Telecommunications Research Institute (ETRI) in Daejeon, as a **Senior Researcher**, since February 2017.
+I'm currently working at Electronics and Telecommunications Research Institute (ETRI) in Daejeon, as a *Senior Researcher*, since February 2017.
 
 ---
 
@@ -35,9 +35,9 @@ I'm currently working at Electronics and Telecommunications Research Institute (
 
 ## Programming Skills
 
-Proficient with: **Python, C, Tensorflow, Scikit-Learn, Matlab.**
+Proficient with: *Python, C, Tensorflow, Scikit-Learn, Matlab.*
 
-Familiar with: **C++, Java, SQL.**
+Familiar with: *C++, Java, SQL.*
 
 ---
 
