@@ -1,3 +1,7 @@
+---
+title: "Biography"
+---
+
 Byung Chang Chung
 
 Senior Researcher at ETRI (한국전자통신연구원)
