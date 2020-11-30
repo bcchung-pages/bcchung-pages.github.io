@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Biography"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Researches"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=Z8_fEX8AAAAJ&hl=ko&oi=ao
+  - title: "Patents"
+    url: https://www.naver.com
   # - title: "Sitemap"
   #   url: /sitemap/
