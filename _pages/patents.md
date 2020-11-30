@@ -8,7 +8,6 @@ author_profile: true
 
 ## Internation Patents
 
----
 - [**Highly related to 3GPP standards**] US 10033451 B2, 미국등록, Method of allocating resources in pattern/polarization beam division multiple access-based transmitting apparatus, method of transmitting channel information by receiving apparatus and receiving apparatus based on pattern/polarization beam division multiple access
 
 - US 9155090 B2, 미국등록, Apparatus and method for transmitting and receiving reference signal in wireless communication system
@@ -35,11 +34,10 @@ author_profile: true
 
 - WO2017-146273 A1, PCT출원, Method for determining beam sector for terminal in BDMA system and method for supporting mobility for terminal in BDMA system
 
-
+---
 
 ## Domestic Patents
 
----
 - 10-1745700 B1, 국내등록, 무선통신 시스템에서 기준 신호 송수신을 위한 장치 및 방법
 
 - 10-1957783 B1, 국내등록, 무선 통신 시스템에서 핸드오버를 위한 장치 및 방법
@@ -96,3 +94,4 @@ author_profile: true
 
 - 10-2020-0147192, 국내출원, 채널 비 가역성 보정 프리코딩 방법
 
+---
