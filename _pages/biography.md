@@ -5,16 +5,35 @@ permalink: /biography/
 author_profile: true
 ---
 
-## Current Affiliation
+## About me
 
-- Senior Researcher at ETRI (한국전자통신연구원)
+I'm currently working at Electronics and Telecommunications Research Institute (ETRI) in Daejeon, as a **Senior Researcher**, since February 2017. My exact affiliation is Defense ICT Convergence Research Section, Intelligent Convergence Research Laboratory.
+
+---
 
 
+## Education
 
-## Educations
+- **Doctor of Philosophy** - KAIST (South Korea):
+  I graudated from Korea Advanced Institute of Science and Technology (KAIST) with a Doctor of Philosophy (Ph.D.) in Februray 2017, majoring in Electrical Engineering. The advisor was Dong-Ho Cho.
 
-- Ph.D from KAIST EE (2013.03.-2017.02)
+- **Master of Engineering** - KAIST (South Korea):
+  I graudated from Korea Advanced Institute of Science and Technology (KAIST) with a Master of Engineering (M.E.) in Februray 2013, majoring in Electrical Engineering. The advisor was Dong-Ho Cho.
+  
+- **Bachelor of Engineering** - KAIST (South Korea):
+  I graudated from Korea Advanced Institute of Science and Technology (KAIST) with a Bachelor of Engineering (B.E.) in Februray 2011, majoring in Electrical Engineering.
 
-- M.S from KAIST EE (2011.02.-2013.02)
+---
 
-- B.E from KAIST EE (2007.02.-2011.02)
+## Programming Skills
+
+Proficient with: **Python, C, Tensorflow, Scikit-Learn, Matlab.**
+
+Familiar with: **C++, Java, SQL.**
+
+---
+
+
+## Contact me
+
+For any inquires, you can reach me via email: **_[bc.sake@gmail.com](mailto:bc.sake@gmail.com)_**
