@@ -5,6 +5,8 @@ permalink: /biography/
 author_profile: true
 ---
 
+{% include figure image_path="/assets/bcchung.jpg" alt="Picture of Chung" %}
+
 ## About me
 
 I'm currently working at Electronics and Telecommunications Research Institute (ETRI) in Daejeon, as a **Senior Researcher**, since February 2017. My exact affiliation is Defense ICT Convergence Research Section, Intelligent Convergence Research Laboratory.
