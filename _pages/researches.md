@@ -20,7 +20,9 @@ Moreover, we implemented testbed learning server to evaluate the performance of 
 
 
 The exhibition & tests are on
-- Mobile World Congress 2019 (Barcelona)
+- World IT Show 2018
+- Mobile World Congress 2019 (Barcelona, Spain)
+- DX Korea 2020
 - KOREN Seoul-Pangyo-Daejeon and Seoul-Suwon-Daejeon paths (미래네트워크선도시험망 서울-판교-대전, 서울-수원-대전 구간)
 - Military networks including wired, microwave and satellite network (실제 국방망)
 
