@@ -5,10 +5,8 @@ permalink: /biography/
 author_profile: true
 ---
 
-{% capture fig_img %}
-![]({{ '/assets/bcchung.jpg' =300x #centering| relative_url }})
-{% endcapture %}
 
+<center><img src="/assets/bcchung.jpg" width="236" height="315"></center>
 
 
 ## About me
