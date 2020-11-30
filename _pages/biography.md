@@ -5,7 +5,7 @@ permalink: /biography/
 author_profile: true
 ---
 
-{% include figure image_path="/assets/bcchung.jpg" alt="Picture of Chung" %}
+!(/assets/bcchung.jpg)
 
 ## About me
 
