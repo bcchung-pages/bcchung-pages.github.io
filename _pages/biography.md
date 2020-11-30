@@ -17,12 +17,12 @@ I'm currently working at Electronics and Telecommunications Research Institute (
 - **Doctor of Philosophy** - KAIST (South Korea):
   I graudated from Korea Advanced Institute of Science and Technology (KAIST) with a Doctor of Philosophy (Ph.D.) in Februray 2017, majoring in Electrical Engineering. The advisor was Dong-Ho Cho.
   
-  Thesis: Intellectual Algorithm for Enhancing System Capacity in Cellular and WLAN Coexisting Communication Networks (셀룰러와 무선 LAN이 공존하는 통신망에서 시스템 용량을 개선하기 위한 지능 알고리즘)
+  *Thesis*: Intellectual Algorithm for Enhancing System Capacity in Cellular and WLAN Coexisting Communication Networks (셀룰러와 무선 LAN이 공존하는 통신망에서 시스템 용량을 개선하기 위한 지능 알고리즘)
 
 - **Master of Engineering** - KAIST (South Korea):
   I graudated from Korea Advanced Institute of Science and Technology (KAIST) with a Master of Engineering (M.E.) in Februray 2013, majoring in Electrical Engineering. The advisor was Dong-Ho Cho.
   
-  Thesis: Reinforcement learning based base station cooperation scheme in mobile networks (이동망에서 강화 학습을 이용한 기지국 협력 방안)
+  *Thesis*: Reinforcement learning based base station cooperation scheme in mobile networks (이동망에서 강화 학습을 이용한 기지국 협력 방안)
   
 - **Bachelor of Engineering** - KAIST (South Korea):
   I graudated *summa cum laude* from Korea Advanced Institute of Science and Technology (KAIST) with a Bachelor of Engineering (B.E.) in Februray 2011, majoring in Electrical Engineering.
