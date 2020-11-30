@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Biography"
-    url: /_pages/2020-11-30-biography.md
+    url: /biography/
   - title: "Researches"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /researches/
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=Z8_fEX8AAAAJ&hl=ko&oi=ao
+    url: /publicatios/
   - title: "Patents"
-    url: https://www.naver.com
+    url: /patents/
   # - title: "Sitemap"
   #   url: /sitemap/
