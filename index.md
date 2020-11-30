@@ -17,7 +17,7 @@ I'm currently working at Electronics and Telecommunications Research Institute (
 
 - Master of Engineering from KAIST (2011.02-2013.02)
   
-- Bachelor of Engineering from KAIST (2007.02-2011.02, **graduated summa cum laude**)
+- Bachelor of Engineering from KAIST (2007.02-2011.02, *graduate summa cum laude*)
 
 ---
 
