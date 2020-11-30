@@ -104,7 +104,7 @@ author:
   name             : "Byung Chang Chung"
   avatar           : # "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Senior Researcher at ETRI, Ph.D."
-  location         : "Daejeon, Republic of Korea"
+  location         : "Daejeon, South Korea"
   email            : "bc.sake@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
