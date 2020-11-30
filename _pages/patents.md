@@ -34,7 +34,7 @@ author_profile: true
 - US 2020-0259924 A1, 미국출원, Network operation system and method
 
 - WO2017-146273 A1, PCT출원, Method for determining beam sector for terminal in BDMA system and method for supporting mobility for terminal in BDMA system
----
+
 
 
 ## Domestic Patents
@@ -95,4 +95,4 @@ author_profile: true
 - 10-2020-0120501, 국내출원, 다중 경로 제어 방법 및 장치
 
 - 10-2020-0147192, 국내출원, 채널 비 가역성 보정 프리코딩 방법
----
+
