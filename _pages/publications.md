@@ -26,7 +26,7 @@ author_profile: true
 
 ## Other journals
 
-- [JO3] **B. C. Chung** and H. Park, "Resource allocation method for improving energy efficiency and receiver fairness in wireless networks," *The Journal of Korean Institute of Communications and Information Sciences*, *Journal of the Korea Institute of Information and Communication Engineering*, accepted.
+- [JO3] **B. C. Chung** and H. Park, "Path selection algorithm for Multi-Media Multi-Path System based on deep Q learning," *Journal of the Korea Institute of Information and Communication Engineering*, accepted.
 
 - [JO2] K.-H. Lee, K.-S. Shin, D. Lim, W.-C. Kim, **B. C. Chung**, G.-B. Han, J. Roh, D.-H. Cho and K. Cho, "Repetitive element signature-based visualization, distance computation, and classification of 1766 microbial genomes," *Genomics*, vol. 106, no. 1, pp. 30-42, Jul. 2015.
 
