@@ -26,7 +26,7 @@ author_profile: true
 
 ## Other journals
 
-- [JO3] **B. C. Chung** and H. Park, "Path selection algorithm for Multi-Media Multi-Path System based on deep Q learning," *Journal of the Korea Institute of Information and Communication Engineering*, accepted.
+- [JO3] **B. C. Chung** and H. Park, "Path selection algorithm for multi-media multi-path System based on deep Q learning," *Journal of the Korea Institute of Information and Communication Engineering*, accepted.
 
 - [JO2] K.-H. Lee, K.-S. Shin, D. Lim, W.-C. Kim, **B. C. Chung**, G.-B. Han, J. Roh, D.-H. Cho and K. Cho, "Repetitive element signature-based visualization, distance computation, and classification of 1766 microbial genomes," *Genomics*, vol. 106, no. 1, pp. 30-42, Jul. 2015.
 
@@ -39,11 +39,11 @@ author_profile: true
 
 - [C5] G.-B. Han, **B. C. Chung** and D.-H. Cho, "Alignment-free sequence comparison using joint frequency and position information of k-words," in *proc.* of IEEE EMBC 2017
 
-- [C4] G.-B. Han, **B. C. Chung** and D.-H. Cho, "A Novel Sequence Comparison Method Based on k-word Positions," in *proc.* of IEEE EMBC 2015
+- [C4] G.-B. Han, **B. C. Chung** and D.-H. Cho, "A novel sequence comparison method based on k-word positions," in *proc.* of IEEE EMBC 2015
 
 - [C3] **B. C. Chung**, G.-B. Han and D.-H. Cho, "Genome-based microorganism classification using coalition formulation game," in *proc.* of IEEE EMBC 2015
 
-- [C2] **B. C. Chung** and D.-H. Cho, "Resource Partitioning in Heterogeneous Networks Based on Bargaining Theory," in *proc.* of IEEE VTC 2015-Spring
+- [C2] **B. C. Chung** and D.-H. Cho, "Resource partitioning in heterogeneous networks based on bargaining theory," in *proc.* of IEEE VTC 2015-Spring
 
 - [C1] K.-S. Shin, **B. C. Chung**, W.-C. Kim and D.-H. Cho, "Fast search of locally repetitive elements based on auto-correlation property in genome," in *proc.* of IEEE BIBE 2013
 
