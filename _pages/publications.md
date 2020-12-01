@@ -17,6 +17,12 @@ author_profile: true
 
 ---
 
+## Standardization
+
+- [S1] **B. C. Chung**, D. Park, J. Han, Y. S. Kim and D.-H. Cho, “On the need of antenna grouping schemes for massive MIMO,” 3GPP R1-160968, Tech. Rep., Feb. 2016.
+
+---
+
 
 ## Other journals
 
