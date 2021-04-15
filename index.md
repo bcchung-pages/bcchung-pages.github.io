@@ -24,7 +24,7 @@ I'm currently working at Electronics and Telecommunications Research Institute (
 
 ## Awards
 
-- NST Chairman's Award, Research and Innovation for Outstanding New Researchers (이사장상 우수신진연구자 연구혁신 부분), 2021
+- NST Chairman's Award, Research and Innovation for Outstanding New Researchers (국가과학기술연구회 이사장상 우수신진연구자 연구혁신 부분), 2021
 
 - ETRI Excellent Quality Award (품질우수상, 다매체 다중경로 적응적 네트워크 과제), 2021
 
