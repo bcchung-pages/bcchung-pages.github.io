@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Journal as a first or corresponding author
 
-- [JF4] **B. C. Chung** and D.-H. Cho, "Learning-based resource partitioning in heterogeneous networks with multiple network operators," *IEEE Communications Letters*, accepted. (Accessable online: 10.1109/LCOMM.2020.3037232)
+- [JF4] **B. C. Chung** and D.-H. Cho, "Learning-based resource partitioning in heterogeneous networks with multiple network operators," *IEEE Communications Letters*, vol. 25, no. 3, pp. 869-873, Mar. 2021.
 
 - [JF3] **B. C. Chung** and D.-H. Cho, "Semidynamic cell-clustering algorithm based on reinforcement learning in cooperative transmission system," *IEEE Systems Journal*, vol. 12, no. 4, pp. 3853-3856, Dec. 2018.
 
@@ -26,7 +26,7 @@ author_profile: true
 
 ## Other journals
 
-- [JO3] **B. C. Chung** and H. Park, "Path selection algorithm for multi-media multi-path System based on deep Q learning," *Journal of the Korea Institute of Information and Communication Engineering*, accepted.
+- [JO3] **B. C. Chung** and H. Park, "Path selection algorithm for multi-media multi-path System based on deep Q learning," *Journal of the Korea Institute of Information and Communication Engineering*, vol. 25, no. 1, pp. 50-55, Jan. 2021.
 
 - [JO2] K.-H. Lee, K.-S. Shin, D. Lim, W.-C. Kim, **B. C. Chung**, G.-B. Han, J. Roh, D.-H. Cho and K. Cho, "Repetitive element signature-based visualization, distance computation, and classification of 1766 microbial genomes," *Genomics*, vol. 106, no. 1, pp. 30-42, Jul. 2015.
 
