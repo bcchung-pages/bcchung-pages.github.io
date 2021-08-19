@@ -16,7 +16,7 @@ In this research, we focus on intelligent network control in MMMP system.
 Recurrent neural network(RNN) is applied to predict the network performance, according to the previous time-series network performance parameters.
 Moreover, we implemented testbed learning server to evaluate the performance of proposed algorithm.
 
-\\<!--<center><img src="/assets/research1-exhibit.png"></center>-->
+<!--<center><img src="/assets/research1-exhibit.png"></center>-->
 
 
 The exhibition & tests are on
