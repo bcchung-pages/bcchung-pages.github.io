@@ -104,7 +104,7 @@ author:
   name             : "Byung Chang Chung"
   avatar           : # "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Professor at Gyeongsang National University, Ph.D."
-  location         : "Tongyoung, South Korea"
+  location         : "Gyeongsangnam-do, South Korea"
   email            : "bc.sake@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
