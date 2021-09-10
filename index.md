@@ -6,7 +6,7 @@ author_profile: true
 
 ## Affiliation
 
-I'm currently working at the Department of Information and Communication Engineering, Gyeongsang National University, as a Assistant Professor, since September 2021.
+I'm currently working at the Department of Information and Communication Engineering, Gyeongsang National University, as a *Assistant Professor*, since September 2021.
 
 Before joining GNU, I worked at Electronics and Telecommunications Research Institute (ETRI) in Daejeon, as a *Senior Researcher*, since February 2017.
 
