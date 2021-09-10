@@ -11,7 +11,10 @@ author_profile: true
 
 ## About me
 
-I'm currently working at Electronics and Telecommunications Research Institute (ETRI) in Daejeon, as a *Senior Researcher*, since February 2017. My exact affiliation is Defense ICT Convergence Research Section, Intelligent Convergence Research Laboratory, ETRI.
+I'm currently working at the Department of Information and Communication Engineering, Gyeongsang National University, as a *Assistant Professor*, since September 2021.
+
+Before joining GNU, I worked at Electronics and Telecommunications Research Institute (ETRI) in Daejeon, as a *Senior Researcher*, since February 2017.
+
 
 ---
 
